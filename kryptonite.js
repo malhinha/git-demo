@@ -1,1 +1,1 @@
-console.log('Luther wins');
+console.log('superman evades kryptonite and wins');
